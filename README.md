@@ -1,9 +1,8 @@
-# 💫 About Me:
-----
+# 💫 About Me
+
 ## 👨‍💻 Hi I'm Bhavana Reddy
 
 🖥️ Currently working as a Research and Statistics Consultant at Florida Highway Safety and Motor Vehicles.<br>🎓Graduate in Statistical Data Science from Florida State University<br>📊 Aspiring Data Analyst passionate about turning data into meaningful insights and helping businesses in decision-making.<br>🛠️ Skilled in Advanced Excel, SQL, Python, Statistics, and Visualization tools (Tableau & Power BI)<br>🤝 I’m currently exploring new Opportunities in the Data Analytics career<br>🌱 Always learning and exploring new Skills and Tools in the field of Data Science<br>
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavana-reddy-bajjuri/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhavanareddy3568@gmail.com) 
 
@@ -24,19 +23,28 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 
 ## 📊 Visualization Tools
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) [![Tableau](https://img.shields.io/badge/Tableau-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://public.tableau.com/app/profile/bhavana.bajjuri/vizzes)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) [![Tableau](https://img.shields.io/badge/Tableau-%23000000.svg?style=for-the-badge&logo=Tableau&logoColor=#FF7139)](https://public.tableau.com/app/profile/bhavana.bajjuri/vizzes)
 
 ----
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=bhavanareddy3568&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=bhavanareddy3568&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=bhavanareddy3568&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ----
 
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=bhavanareddy3568&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🧠 Featured Projects
 
----
-[![](https://komarev.com/ghpvc/?username=bhavanareddy3568&icon=0&color=0)](https://visitcount.itsvg.in)
+### [✈️ Flight Delay Analysis and Prediction Using Machine Learning](https://github.com/bhavanareddy3568/Flight-delay-Analysis-and-Prediction)
+An end-to-end machine learning and analytics project focused on analyzing historical airline delays and building predictive models to forecast average arrival delays across U.S. airports and airlines.
+
+### [🛍️ Retail Sales Analysis](https://github.com/bhavanareddy3568/Retail-Sales-Analysis)
+Understanding the Customer Behaviour pattern in Reatil Domain by Data Analysis using Python and SQL
+
+### [🚕 NYC-Taxi-Fare-Analysis](https://github.com/bhavanareddy3568/NYC-Taxi-Fare-Analysis-Automatidata)
+An Interactive data analytics and business solution built for the NYC Taxi & Limousine Commission Using Excel & Tableau to undewrsatnd the patterns in Taxi/Cab Services
+
+### [₿ Cryptocurrency Volatility Analysis](https://github.com/bhavanareddy3568/Cryptocurrency-volatility-Regression-Diagnostics)
+An end-to-end statistical analysis project focused on understanding and modeling Bitcoin volatility, market trends using regression diagnostics, financial market indicators, and feature engineering techniques.
+
