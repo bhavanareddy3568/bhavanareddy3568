@@ -40,7 +40,7 @@
 An end-to-end machine learning and analytics project focused on analyzing historical airline delays and building predictive models to forecast average arrival delays across U.S. airports and airlines.
 
 ### [🛍️ Retail Sales Analysis](https://github.com/bhavanareddy3568/Retail-Sales-Analysis)
-Understanding the Customer Behaviour pattern in Reatil Domain by Data Analysis using Python and SQL
+Engineered an end-to-end retail analytics project using Python and DuckDB to process transactional data and evaluate critical business KPIs across 12 analytical dimensions. Leveraged SQL window functions and CTEs to perform advanced RFM and cohort analysis, uncovering actionable insights on customer retention and spending behavior to drive revenue-focused decision-making.
 
 ### [🚕 NYC-Taxi-Fare-Analysis](https://github.com/bhavanareddy3568/NYC-Taxi-Fare-Analysis-Automatidata)
 An Interactive data analytics and business solution built for the NYC Taxi & Limousine Commission Using Excel & Tableau to undewrsatnd the patterns in Taxi/Cab Services
